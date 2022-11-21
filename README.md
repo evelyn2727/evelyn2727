@@ -3,7 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm EVELYN MILAGROS</h1>
 <h3 align="center">A passionate QA from PERÚ</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 - 🌱 I’m currently learning **Cypress**
 
 - 📫 How to reach me **elizarragab@gmail.com**
