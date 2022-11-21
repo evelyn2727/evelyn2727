@@ -1,7 +1,6 @@
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng)" width="100"/>
 </div>
-
 <h1 align="center">Hi 👋, I'm EVELYN MILAGROS</h1>
 <h3 align="center">A passionate QA from PERÚ</h3>
 
