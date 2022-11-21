@@ -21,6 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn2727&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=github_profile"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=demo_selenium_1"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=evelyn2727&show_icons=true&theme=dark"/>
