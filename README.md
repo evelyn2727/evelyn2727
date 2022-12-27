@@ -29,3 +29,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=EjemploScreenplay_demo_1)](https://github.com/evelyn2727/EjemploScreenplay_demo_1)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn2727)](https://github.com/evelyn2727/EjemploScreenplay_demo_1)
