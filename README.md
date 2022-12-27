@@ -23,11 +23,11 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=evelyn2727&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=evelyn2727&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn2727&layout=compact"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=EjemploScreenplay_demo_1)](https://github.com/evelyn2727/EjemploScreenplay_demo_1)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn2727&layout=compact"/>
+
