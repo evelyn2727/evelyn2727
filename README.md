@@ -26,3 +26,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn2727&layout=compact"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=evelyn2727&show_icons=true&theme=dark"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn2727)](https://github.com/evelyn2727/github-readme-stats)
