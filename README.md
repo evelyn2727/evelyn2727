@@ -27,5 +27,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=evelyn2727&show_icons=true&theme=dark"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=github-readme-stats)](https://github.com/evelyn2727/EjemploScreenplay_demo_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evelyn2727&repo=EjemploScreenplay_demo_1)](https://github.com/evelyn2727/EjemploScreenplay_demo_1)
 
