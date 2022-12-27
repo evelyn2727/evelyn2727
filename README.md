@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **elizarragab@gmail.com**
 
-- 📄 Know about my experiences [i had worked on Testing 8 years](i had worked on Testing 8 years)
+- 📄 Know about my experiences : I had worked on Testing 8 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
